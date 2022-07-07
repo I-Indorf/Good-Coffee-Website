@@ -8,4 +8,6 @@
 
 *BOOTSTRAP works almost entirely off of classes.
 
-*CSS class is a ".", id is a #
+*CSS class is a "." & id is a #
+
+*
