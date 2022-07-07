@@ -1,0 +1,11 @@
+*Divs are "block" elements and are used for large chunks of code
+
+*Spans are "inline" elements and are used for small bits of code 
+
+*CSS link goes underneath Bootstrap link!
+
+*SASS on BOOTSTRAP shows you how you should have your files set up
+
+*BOOTSTRAP works almost entirely off of classes.
+
+*CSS class is a ".", id is a #
